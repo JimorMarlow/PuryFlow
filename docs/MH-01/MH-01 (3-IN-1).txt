@@ -1,0 +1,95 @@
+Multi-Function Flow Sensor MH-01 MH-02 TDS Temperature Hall Effect 1/4" & 3/8" Quick Connect High Accuracy
+https://sl.aliexpress.ru/p?key=nJgZV48
+
+Description
+
+
+
+
+1.NOTE
+
+The MH-01 (2-in-1) model includes flow and TDS monitoring by default. It supports optional micro (1mm, 0.1 1L/min) or large bore (4mm, 0.3 3L/min) sizes, and can be configured with either integrated or split cable designs.
+MH-01 (3-in-1) and MH-02 (3-in-1) models come with flow, TDS, and temperature sensing functions, using an integrated 6-wire cable only.
+All models operate on DC 5 18V and offer ±3% flow detection accuracy. The standard MH-01 (2-in-1) does not include temperature sensing, but customization is available.
+Some configurations may not be shown due to listing limitations. Please leave a note at checkout or contact us if you have specific requirements.
+Feel free to reach out we re happy to help!
+
+2. Parameters
+
+Parameter
+MH-01 (3-in-1, 6-wire)
+
+Function
+Flow + TDS + Temperature
+
+Cable Type
+6-wire Integrated Only
+
+Bore Size
+4mm
+
+Pipe Interface
+6.35mm PE pipe
+
+Operating Voltage
+DC 5~18V
+
+Minimum Rated Voltage
+DC 3.5V
+
+Max Working Current
+15mA (DC 5V)
+
+Load Capacity
+10mA
+
+Temperature Detection
+Yes
+
+Operating Temperature Range
+80°C
+
+Operating Humidity
+35% 90% RH (no frost)
+
+Storage Temperature
+-25~+80°C
+
+Storage Humidity
+25% 95% RH
+
+Max Pressure
+0.8MPa
+
+Flow Detection Accuracy
+0.3~6L/min ±3%
+
+Flow Range Details
+0.3 6L/min
+
+Pulse Output Duty Cycle
+50 ±10%
+
+Output Rise Time
+0.04μs
+
+Output Fall Time
+0.18μs
+
+Pulse Frequency Formula
+Hz = 36 × Q + 3% (Q=L/min)
+
+3. Features
+6-Wire Integrated Version for Full Monitoring
+The 3-in-1 version comes with an integrated 6-wire structure, ideal for compact systems with full data feedback.
+
+Precise & Stable Signal Output
+±3% flow accuracy, clean pulse signal, and ultra-fast response for accurate real-time monitoring.
+
+
+4. Application
+Water Quality Monitoring in IoT Devices
+Home & Industrial Water Purifiers
+Lab-Grade Low-Flow Fluid Measurement
+Precision Water Control in Smart Appliances
+
